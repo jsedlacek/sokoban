@@ -12,6 +12,10 @@ is how people think and what are they able to achieve in limited time.
 The repository contains a skeleton of the game in React - JSX markup and CSS
 styles.
 
+## `npm install`
+
+Installs dependencies of the app.
+
 ## `npm start`
 
 Runs the app in the development mode.<br> Open
