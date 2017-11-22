@@ -1,4 +1,4 @@
-# Sokoban - interview coding session
+# Sokoban skeleton for coding interview
 
 ![](public/screen.gif)
 
