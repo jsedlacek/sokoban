@@ -1,6 +1,6 @@
 # Sokoban - interview coding session
 
-![](public/screenshot.png)
+![](public/screen.gif)
 
 The goal of this interview session is to implement Sokoban game. If you are not
 familiar how the game works you can see live version on
