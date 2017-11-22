@@ -1,0 +1,74 @@
+.Game {
+  margin: 40px;
+}
+
+.Content {
+  display: flex;
+}
+
+.Stats {
+  width: 200px;
+  background-color: #f7f7f7;
+  padding: 40px;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+}
+
+.Cell {
+  width: 40px;
+  height: 40px;
+}
+
+.Wall {
+  width: 40px;
+  height: 40px;
+  background-color: #85144b;
+  position: absolute;
+}
+
+.Target {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin: 15px;
+  border-radius: 50%;
+  background-color: #7fdbff;
+}
+
+.Box {
+  width: 30px;
+  height: 30px;
+  background-color: #ffdc00;
+  position: absolute;
+  margin: 5px;
+}
+
+.Box.Box-target {
+  background-color: #ff851b;
+}
+
+.Player {
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 32px;
+}
+
+.Legend {
+  margin-top: 40px;
+}
+
+.Legend-item {
+  display: flex;
+  align-items: center;
+}
+
+.Legend-symbol {
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
