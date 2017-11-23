@@ -66,9 +66,9 @@
 .Legend-item {
   display: flex;
   align-items: center;
+  margin-bottom: 10px;
 }
 
 .Legend-symbol {
   margin-right: 20px;
-  margin-bottom: 10px;
 }
