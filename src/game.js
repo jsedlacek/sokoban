@@ -50,68 +50,23 @@ export default class Game extends React.Component {
               <div className="Cell">
                 <div className="Wall" />
               </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
             </div>
 
             <div className="Row">
               <div className="Cell">
                 <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell" />
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-            </div>
-
-            <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Target" />
               </div>
               <div className="Cell">
                 <div className="Player">👷</div>
               </div>
-              <div className="Cell">
-                <div className="Box" />
-              </div>
               <div className="Cell" />
               <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
               <div className="Cell">
                 <div className="Wall" />
               </div>
             </div>
 
             <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
               <div className="Cell">
                 <div className="Wall" />
               </div>
@@ -125,110 +80,9 @@ export default class Game extends React.Component {
               <div className="Cell">
                 <div className="Wall" />
               </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
             </div>
 
             <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Target" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Box" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-            </div>
-
-            <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Target" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-            </div>
-
-            <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Box" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Target" />
-                <div className="Box Box-target" />
-              </div>
-              <div className="Cell">
-                <div className="Box" />
-              </div>
-              <div className="Cell">
-                <div className="Box" />
-              </div>
-              <div className="Cell">
-                <div className="Target" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-            </div>
-
-            <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell" />
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Target" />
-              </div>
-              <div className="Cell" />
-              <div className="Cell" />
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-            </div>
-
-            <div className="Row">
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
-              <div className="Cell">
-                <div className="Wall" />
-              </div>
               <div className="Cell">
                 <div className="Wall" />
               </div>
