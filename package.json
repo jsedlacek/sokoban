@@ -10,6 +10,7 @@
     "react-dom": "^16.5.2"
   },
   "scripts": {
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "now-build": "parcel build src/index.html"
   }
 }
