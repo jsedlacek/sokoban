@@ -5,4 +5,5 @@ workflow "New workflow" {
 
 action "GitHub Action for Zeit" {
   uses = "actions/zeit-now@9fe84d5"
+  secrets = ["ZEIT_TOKEN"]
 }
